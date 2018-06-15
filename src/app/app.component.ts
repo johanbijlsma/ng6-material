@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  title = 'Angular-test-home';
+  intro = 'On this local playground I\'ll experiment with Angular 6 and with the material design package, since I\'m using that at work.';
 }

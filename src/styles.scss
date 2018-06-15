@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+h1{
+    color: rebeccapurple;
+    text-shadow: 2px 3px 3px rgba(black, 0.2);
+}
+body { margin: 0; }
